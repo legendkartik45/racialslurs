@@ -7,6 +7,7 @@ This application counts the number of racial slurs in each tweet in a CSV file a
 ![Screenshot of application](s1.png)
 ![Screenshot of application](s2.png)
 ![Screenshot of application](s3.png)
+![Screenshot of application](s5.png)
 ![Screenshot of application](s4.png)
 
 
