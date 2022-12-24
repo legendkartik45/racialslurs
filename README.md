@@ -4,6 +4,9 @@ Profanity Counter
 
 This application counts the number of racial slurs in each tweet in a CSV file and displays the profanity scores. It is implemented in Python using the Streamlit and pandas libraries.
 
+![Screenshot of application](s1.png)
+
+
 Dependencies
 
 To use the application, you will need to have the following libraries installed:
