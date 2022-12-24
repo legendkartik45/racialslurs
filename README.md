@@ -1,9 +1,11 @@
-Here is a more detailed documentation for the code that counts the number of racial slurs in tweets in a CSV file, including information about the Python libraries used:
+
 
 Profanity Counter
+
 This application counts the number of racial slurs in each tweet in a CSV file and displays the profanity scores. It is implemented in Python using the Streamlit and pandas libraries.
 
 Dependencies
+
 To use the application, you will need to have the following libraries installed:
 
 Streamlit
@@ -14,9 +16,11 @@ You can install these libraries using pip:
 pip install streamlit pandas
 
 Usage
+
 To run the application, navigate to the directory containing the code and run the following command:
 
 streamlit run profanity_counter.py
+
 This will launch a web application in your default web browser. To use the application, select a CSV file containing tweets and enter the racial slurs to count (separated by commas). The application will display a table of profanity scores, one for each tweet in the file.
 
 Input
